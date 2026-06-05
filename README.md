@@ -27,7 +27,7 @@ $ cat stack.conf
 
 $ cat hobbies.txt
 
-academia · viajar · games · música · séries
+gym · traveling · games · music · series
 
 
 $ _
