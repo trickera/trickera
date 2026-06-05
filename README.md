@@ -20,13 +20,11 @@ $ cat stack.conf
 [ci/cd]          GitHub Actions · GitLab CI/CD · ArgoCD · GitOps
 [observability]  Datadog · Grafana · Prometheus · ELK · Zabbix · New Relic
 [security]       KMS · IAM · RBAC · Hardening · DevSecOps
-[languages]      Python · Bash · Shell Script · PowerShell · SQL
+[languages]      Python · Bash · Shell Script · PowerShell · SQL · TypeScript · JavaScript
+[ai tools]       Claude Code · Codex · OpenCode · Cursor · Copilot
 [practices]      SRE · FinOps · Platform Engineering · ITIL · Scrum
 
-
-$ cat hobbies.txt
-
-academia · viajar · games · música · séries
+[hobbies]        academia · viajar · games · música · séries
 
 
 $ _
