@@ -24,7 +24,10 @@ $ cat stack.conf
 [ai tools]       Claude Code · Codex · OpenCode · Cursor · Copilot
 [practices]      SRE · FinOps · Platform Engineering · ITIL · Scrum
 
-[hobbies]        academia · viajar · games · música · séries
+
+$ cat hobbies.txt
+
+academia · viajar · games · música · séries
 
 
 $ _
