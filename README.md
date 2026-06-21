@@ -23,6 +23,7 @@ $ cat stack.conf
 [languages]      Python · Bash · Shell Script · PowerShell · SQL · TypeScript · JavaScript
 [ai tools]       Claude Code · Codex · OpenCode · Cursor · Copilot
 [practices]      SRE · FinOps · Platform Engineering · ITIL · Scrum
+[OS]             Linux · Windows · Windows Server · macOS · Android
 
 
 $ cat hobbies.txt
